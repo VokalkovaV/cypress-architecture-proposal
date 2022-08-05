@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5532eed1-7ac1-4813-bb9e-138c2d7f8994" name="Default Changelist" comment="new tests, const, functions">
+      <change afterPath="$PROJECT_DIR$/cypress/integration/example-openspecimen-project/specs/smoke-test/po/distribution-protocols.po.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/integration/example-openspecimen-project/specs/smoke-test/po/proband-detai-page.po.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/integration/example-openspecimen-project/specs/smoke-test/po/umisteni-vzorku.po.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1idKK49RH6Ki63LIJtX2WMCaUOW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Cypress-trial" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="ts.external.directory.path" value="C:\Users\vokalkova\OneDrive - MUNI\Plocha\WebstormProjectsPrivate\Cypress-Plywright\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vokalkova\OneDrive - MUNI\Plocha\WebstormProjectsPrivate\Cypress-Plywright\cypress\integration\example-openspecimen-project\specs\smoke-test\po" />
+      <recent name="C:\Users\vokalkova\OneDrive - MUNI\Plocha\WebstormProjectsPrivate\Cypress-Plywright\cypress\integration\example-specs" />
+      <recent name="C:\Users\vokalkova\OneDrive - MUNI\Plocha\WebstormProjectsPrivate\Cypress-Plywright" />
+      <recent name="C:\Users\vokalkova\OneDrive - MUNI\Plocha\WebstormProjectsPrivate\Cypress-Plywright\playwright" />
+      <recent name="C:\Users\vokalkova\OneDrive - MUNI\Plocha\WebstormProjectsPrivate\Cypress-Plywright\cypress\integration\specs\modal-window\cons" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.create-new-tng-proband.spec.js (1)">
+    <configuration name="create-new-tng-proband.spec.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/playwright/create-new-tng-proband.spec.js" working-dir="$PROJECT_DIR$/playwright">
+      <method v="2" />
+    </configuration>
+    <configuration name="create-new-tng-proband.spec.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/test/create-new-tng-proband.spec.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="playwright.conf.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/test/playwright.conf.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="playwright:open" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="playwright:open" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="test" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.create-new-tng-proband.spec.js (1)" />
+        <item itemvalue="Node.js.create-new-tng-proband.spec.js" />
+        <item itemvalue="npm.playwright:open" />
+        <item itemvalue="Node.js.playwright.conf.js" />
+        <item itemvalue="npm.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5532eed1-7ac1-4813-bb9e-138c2d7f8994" name="Default Changelist" comment="" />
+      <created>1602231961316</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602231961316</updated>
+      <workItem from="1602231962486" duration="20905000" />
+      <workItem from="1602484674510" duration="9848000" />
+      <workItem from="1602499664589" duration="8377000" />
+      <workItem from="1602605812222" duration="4161000" />
+      <workItem from="1602658419157" duration="5074000" />
+      <workItem from="1603266860148" duration="12126000" />
+      <workItem from="1603351499902" duration="6844000" />
+      <workItem from="1603959075458" duration="4228000" />
+    </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1602583790204</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602583790204</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update">
+      <created>1602592689741</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602592689741</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update">
+      <created>1602610414773</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602610414773</updated>
+    </task>
+    <task id="LOCAL-00004" summary="modal windows tests fix">
+      <created>1602663035104</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602663035104</updated>
+    </task>
+    <task id="LOCAL-00005" summary="new tests, const, functions">
+      <created>1603353391344</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1603353391344</updated>
+    </task>
+    <task id="LOCAL-00006" summary="new tests, const, functions">
+      <created>1603959101047</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1603959101047</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <MESSAGE value="modal windows tests fi" />
+    <MESSAGE value="modal windows tests fix" />
+    <MESSAGE value="new tests, const, functions" />
+    <option name="LAST_COMMIT_MESSAGE" value="new tests, const, functions" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="127" y="67" key="DiffContextDialog" timestamp="1602609310954">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="127" y="67" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1602609310954" />
+    <state x="493" y="189" key="FileChooserDialogImpl" timestamp="1603351649242">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="493" y="189" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1603351649242" />
+    <state x="2659" y="334" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1920.1160@1920.0.1920.1160" timestamp="1602245960918" />
+    <state x="493" y="189" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1602485842303" />
+    <state x="2736" y="477" key="Github.ShareDialog" timestamp="1602252985388">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="2736" y="477" key="Github.ShareDialog/0.0.1280.680/1920.0.1920.1160@1920.0.1920.1160" timestamp="1602252985388" />
+    <state x="2559" y="277" key="Github.UntrackedFilesDialog" timestamp="1602252994795">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="2559" y="277" key="Github.UntrackedFilesDialog/0.0.1280.680/1920.0.1920.1160@1920.0.1920.1160" timestamp="1602252994795" />
+    <state width="1257" height="118" key="GridCell.Tab.0.bottom" timestamp="1602597946548">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1257" height="136" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1602592601217" />
+    <state width="1899" height="321" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1160@1920.0.1920.1160" timestamp="1602254662058" />
+    <state width="1257" height="118" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1602597946548" />
+    <state width="1257" height="118" key="GridCell.Tab.0.center" timestamp="1602597946544">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1257" height="136" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1602592601217" />
+    <state width="1899" height="321" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1160@1920.0.1920.1160" timestamp="1602254662058" />
+    <state width="1257" height="118" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1602597946544" />
+    <state width="1257" height="118" key="GridCell.Tab.0.left" timestamp="1602597946544">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1257" height="136" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1602592601217" />
+    <state width="1899" height="321" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1160@1920.0.1920.1160" timestamp="1602254662057" />
+    <state width="1257" height="118" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1602597946544" />
+    <state width="1257" height="118" key="GridCell.Tab.0.right" timestamp="1602597946544">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1257" height="136" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1602592601217" />
+    <state width="1899" height="321" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1160@1920.0.1920.1160" timestamp="1602254662058" />
+    <state width="1257" height="118" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1602597946544" />
+    <state x="322" y="60" key="RollbackChangesDialog" timestamp="1602609314098">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="322" y="60" key="RollbackChangesDialog/0.0.1280.680@0.0.1280.680" timestamp="1602609314098" />
+    <state x="282" y="0" key="SettingsEditor" timestamp="1602510140083">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="2381" y="225" key="SettingsEditor/0.0.1280.680/1920.0.1920.1160@1920.0.1920.1160" timestamp="1602236197167" />
+    <state x="282" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1602510140083" />
+    <state width="514" height="452" key="SwitcherDM" timestamp="1602607727724">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="514" height="452" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1602607727724" />
+    <state x="232" y="73" key="Vcs.Push.Dialog.v2" timestamp="1603959108614">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="232" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1603959108614" />
+    <state x="232" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1602663044837" />
+    <state x="2268" y="112" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603353394946" />
+    <state x="232" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1602610423746" />
+    <state x="2832" y="399" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603353354103">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2832" y="399" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603353354103" />
+    <state x="608" y="261" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1602509693791" />
+    <state x="2586" y="179" width="587" height="801" key="find.popup" timestamp="1602246147530">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="2586" y="179" width="587" height="801" key="find.popup/0.0.1280.680/1920.0.1920.1160@1920.0.1920.1160" timestamp="1602246147530" />
+    <state x="2536" y="270" key="run.anything.popup" timestamp="1602253915309">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="2536" y="270" key="run.anything.popup/0.0.1280.680/1920.0.1920.1160@1920.0.1920.1160" timestamp="1602253915309" />
+    <state x="591" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1602509971572">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="591" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1602509971572" />
+  </component>
+</project>
